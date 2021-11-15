@@ -1,0 +1,7 @@
+C:\Users\Mato\source\repos\SyntaxLinq\SyntaxLinq\bin\Debug\SyntaxLinq.exe.config
+C:\Users\Mato\source\repos\SyntaxLinq\SyntaxLinq\bin\Debug\SyntaxLinq.exe
+C:\Users\Mato\source\repos\SyntaxLinq\SyntaxLinq\bin\Debug\SyntaxLinq.pdb
+C:\Users\Mato\source\repos\SyntaxLinq\SyntaxLinq\obj\Debug\SyntaxLinq.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\SyntaxLinq\SyntaxLinq\obj\Debug\SyntaxLinq.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\SyntaxLinq\SyntaxLinq\obj\Debug\SyntaxLinq.exe
+C:\Users\Mato\source\repos\SyntaxLinq\SyntaxLinq\obj\Debug\SyntaxLinq.pdb
